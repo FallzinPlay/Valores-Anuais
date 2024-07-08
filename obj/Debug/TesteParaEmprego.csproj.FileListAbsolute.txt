@@ -1,0 +1,7 @@
+C:\Users\vitor\source\repos\TesteParaEmprego\TesteParaEmprego\bin\Debug\TesteParaEmprego.exe.config
+C:\Users\vitor\source\repos\TesteParaEmprego\TesteParaEmprego\bin\Debug\TesteParaEmprego.exe
+C:\Users\vitor\source\repos\TesteParaEmprego\TesteParaEmprego\bin\Debug\TesteParaEmprego.pdb
+C:\Users\vitor\source\repos\TesteParaEmprego\TesteParaEmprego\obj\Debug\TesteParaEmprego.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\TesteParaEmprego\TesteParaEmprego\obj\Debug\TesteParaEmprego.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\TesteParaEmprego\TesteParaEmprego\obj\Debug\TesteParaEmprego.exe
+C:\Users\vitor\source\repos\TesteParaEmprego\TesteParaEmprego\obj\Debug\TesteParaEmprego.pdb
